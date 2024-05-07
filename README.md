@@ -34,8 +34,8 @@ print("{:.2f}".format(sq))
 
 
 ### OUTPUT:
-![image](https://github.com/Sheetalshee/DISTANCE-BETWEEN-TWO-POINTS/assets/144979107/db096501-c2ee-40ad-966d-d0098a4e4526)
-![image](https://github.com/Sheetalshee/DISTANCE-BETWEEN-TWO-POINTS/assets/144979107/ec8f29f2-c094-4a8c-969a-f700fcd519de)
+![image](https://github.com/Sheetalshee/DISTANCE-BETWEEN-TWO-POINTS/assets/144979107/a40cafbd-7df1-4813-9b0f-8baf79214631)
+
 
 
 

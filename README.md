@@ -31,7 +31,7 @@ sq=math.sqrt(c)
 print("{:.2f}".format(sq))
   
 
-
+~~~
 ### OUTPUT:
 ![image](https://github.com/Sheetalshee/DISTANCE-BETWEEN-TWO-POINTS/assets/144979107/a40cafbd-7df1-4813-9b0f-8baf79214631)
 
